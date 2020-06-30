@@ -22,4 +22,4 @@ hobby1 >= FriendHobby1
 hobby2 == FriendHobby2
 var AgeDiffrens = FriendAge - age
 
-
+["swift"]
